@@ -10,7 +10,7 @@ config==0.4.2
 configparser==4.0.2
 contextlib2==0.6.0.post1
 country-converter==0.6.7
-cryptography==2.1.4
+cryptography==2.3
 decorator==4.4.1
 enum34==1.1.6
 Flask==1.1.1

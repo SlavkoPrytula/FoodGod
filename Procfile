@@ -1,0 +1,1 @@
+worker: node food_got_bot.py
